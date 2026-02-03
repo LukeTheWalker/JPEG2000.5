@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['cpx_303',['cpx',['../namespaceTypedefs.html#a59acb6042b9c009d7b35a7330a91793c',1,'Typedefs']]]
+  ['b_0',['B',['../autolink_8cpp.html#a7ddc550b157ed6f8db58e462b504ab0f',1,'autolink.cpp']]]
 ];

@@ -1,7 +1,25 @@
 var searchData=
 [
-  ['haar_70',['HAAR',['../namespaceTRANSFORM__MATRICES.html#aa91e4f70b1cfdb491458bf126b572783',1,'TRANSFORM_MATRICES']]],
-  ['huffmantree_71',['HuffmanTree',['../classHuffmanTree.html',1,'HuffmanTree&lt; T &gt;'],['../classHuffmanTree.html#a9bfe47eae7ac1f3e556e7ca2d3bdfb24',1,'HuffmanTree::HuffmanTree()']]],
-  ['huffmantree_2ehpp_72',['HuffmanTree.hpp',['../HuffmanTree_8hpp.html',1,'']]],
-  ['hyperparameters_2ehpp_73',['hyperparameters.hpp',['../hyperparameters_8hpp.html',1,'']]]
+  ['f_0',['f',['../namespacecompression.html#abc46d27d18eca0151b7efbf92139fa27',1,'compression']]],
+  ['fft_5ftests_1',['fft_tests',['../test__fft_8hpp.html#a45b22374ce84fd6e20659ddc46d08c07',1,'test_fft.hpp']]],
+  ['file_2eh_2',['file.h',['../file_8h.html',1,'']]],
+  ['filter_5ffreqs_3',['filter_freqs',['../classtr_1_1FourierTransform_1_1OutputSpace.html#a0cc5fcb7c27e2755bc793408386943a1',1,'tr::FourierTransform::OutputSpace']]],
+  ['filter_5fmagnitude_4',['filter_magnitude',['../classtr_1_1FourierTransform_1_1OutputSpace.html#a4b709ad2355cf79e7fde9130dcb62d85',1,'tr::FourierTransform::OutputSpace']]],
+  ['fn_5ftest_5',['Fn_Test',['../classFn__Test.html',1,'']]],
+  ['forward_6',['forward',['../structTRANSFORM__MATRICES_1_1TransformMatrix.html#aa206f569b5ca528cfdb65d448cabe07b',1,'TRANSFORM_MATRICES::TransformMatrix']]],
+  ['fouriertransform_7',['FourierTransform',['../classtr_1_1FourierTransform.html',1,'tr']]],
+  ['fouriertransform_2ecpp_8',['FourierTransform.cpp',['../FourierTransform_8cpp.html',1,'']]],
+  ['fouriertransform_2ehpp_9',['FourierTransform.hpp',['../FourierTransform_8hpp.html',1,'']]],
+  ['fouriertransform2d_10',['FourierTransform2D',['../classtr_1_1FourierTransform2D.html',1,'tr']]],
+  ['fouriertransform2d_2ecpp_11',['FourierTransform2D.cpp',['../FourierTransform2D_8cpp.html',1,'']]],
+  ['fouriertransform2d_2ehpp_12',['FourierTransform2D.hpp',['../FourierTransform2D_8hpp.html',1,'']]],
+  ['freq_13',['freq',['../structHuffmanTree_1_1Node.html#a928570b16bfcd8245712f6493c825d00',1,'HuffmanTree::Node']]],
+  ['func_14',['func',['../group__group1.html#ga24f647174760cac13d2624b5ad74b00c',1,'group.cpp']]],
+  ['func_2eh_15',['func.h',['../func_8h.html',1,'']]],
+  ['func1ingroup1_16',['func1InGroup1',['../classMemgrp__Test.html#a5052066c03efb51395b5334da4255cd2',1,'Memgrp_Test']]],
+  ['func1ingroup2_17',['func1InGroup2',['../classMemgrp__Test.html#ab0e6553ddc36ac3cef0ac229c5dd4cdb',1,'Memgrp_Test']]],
+  ['func2_18',['func2',['../group__group1.html#ga053929c0809a5f56f7548fd7d9968f31',1,'group.cpp']]],
+  ['func2ingroup1_19',['func2InGroup1',['../classMemgrp__Test.html#a8296fa2c355e84ecf25522d54807548c',1,'Memgrp_Test']]],
+  ['func2ingroup2_20',['func2InGroup2',['../classMemgrp__Test.html#a9ce862049bb543596343e81ad3ddddff',1,'Memgrp_Test']]],
+  ['func3_21',['func3',['../group__group1.html#gadbf675591ff057ec48ce35b0d5cdf755',1,'group.cpp']]]
 ];

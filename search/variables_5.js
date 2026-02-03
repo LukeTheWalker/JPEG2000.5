@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['left_297',['left',['../structHuffmanTree_1_1Node.html#a6f6042c0d220eb418c97fc2d103db5b1',1,'HuffmanTree::Node']]]
+  ['globalvalue_0',['globalValue',['../file_8h.html#a4a86bef4b6181cb3f53bd0461a9a511b',1,'file.h']]],
+  ['globvar_1',['globVar',['../autolink_8cpp.html#a88d0bae800d600a11d7bd60f0bc4b858',1,'autolink.cpp']]]
 ];

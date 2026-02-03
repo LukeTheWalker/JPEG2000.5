@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['r_298',['R',['../namespacecompression.html#ac9b97638f1f9f34643abb5aa987b9c86',1,'compression']]],
-  ['right_299',['right',['../structHuffmanTree_1_1Node.html#af44d35758b82748af838257093bfcbcd',1,'HuffmanTree::Node']]]
+  ['haar_0',['HAAR',['../namespaceTRANSFORM__MATRICES.html#aa91e4f70b1cfdb491458bf126b572783',1,'TRANSFORM_MATRICES']]],
+  ['handler_1',['handler',['../classJavadoc__Test.html#ace81a523a4eef44501a841a6d338832b',1,'Javadoc_Test::handler()'],['../classQTstyle__Test.html#a79dd4e5498f09057775a819d911349e2',1,'QTstyle_Test::handler()']]]
 ];

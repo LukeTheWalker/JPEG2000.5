@@ -1,6 +1,6 @@
 var TransformMatrices_8hpp =
 [
-    [ "TransformMatrix", "structTRANSFORM__MATRICES_1_1TransformMatrix.html", "structTRANSFORM__MATRICES_1_1TransformMatrix" ],
+    [ "TRANSFORM_MATRICES::TransformMatrix< T, N >", "structTRANSFORM__MATRICES_1_1TransformMatrix.html", "structTRANSFORM__MATRICES_1_1TransformMatrix" ],
     [ "generate_forward", "TransformMatrices_8hpp.html#a3569fa0b21a9787d92310f0d9337e93f", null ],
     [ "generate_inverse", "TransformMatrices_8hpp.html#a1de05a6ab59644a8d5150b67bf6a69b2", null ],
     [ "COIFFLET_30", "TransformMatrices_8hpp.html#a64b17d87886dde393a8a06b728f44d11", null ],

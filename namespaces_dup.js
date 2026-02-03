@@ -7,6 +7,7 @@ var namespaces_dup =
       [ "R", "namespacecompression.html#ac9b97638f1f9f34643abb5aa987b9c86", null ],
       [ "tr_mat", "namespacecompression.html#a437ac2cee5913fb8cb34502170d43f2b", null ]
     ] ],
+    [ "N1", "namespaceN1.html", null ],
     [ "tr", "namespacetr.html", "namespacetr" ],
     [ "TRANSFORM_MATRICES", "namespaceTRANSFORM__MATRICES.html", "namespaceTRANSFORM__MATRICES" ],
     [ "Typedefs", "namespaceTypedefs.html", [

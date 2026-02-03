@@ -1,8 +1,7 @@
 var searchData=
 [
-  ['time_5fev_270',['time_ev',['../namespacetr_1_1test__suite.html#a245bf46de09b7e4da5d44ed0d3c186e4',1,'tr::test_suite']]],
-  ['time_5fev_5fdwt_271',['time_ev_dwt',['../namespacetr_1_1test__suite.html#ae12ff7cb9e6a80252de6bfa6f5a097d3',1,'tr::test_suite']]],
-  ['time_5fevaluation_272',['time_evaluation',['../test__fft_8hpp.html#a682a72e6747d5f6cc5f7881318039f0a',1,'test_fft.hpp']]],
-  ['transform_273',['transform',['../classImage.html#a69f8e04e30e6860431c7f8732901eb6a',1,'Image']]],
-  ['transformmatrix_274',['TransformMatrix',['../structTRANSFORM__MATRICES_1_1TransformMatrix.html#a0c847b3acfa04c91871993b39a2b7d1c',1,'TRANSFORM_MATRICES::TransformMatrix']]]
+  ['partial_5fbit_5freverse_0',['partial_bit_reverse',['../namespacetr_1_1bitreverse.html#af561a30ebf3d841ec06327d19df44a70',1,'tr::bitreverse']]],
+  ['pass_5ffilter_1',['pass_filter',['../classtr_1_1FourierTransform2D_1_1OutputSpace.html#aac918c6185d3f478bcf22d3241aebc72',1,'tr::FourierTransform2D::OutputSpace']]],
+  ['plot_5fimage_2',['plot_image',['../Compression_2src_2main_8cpp.html#ae8d78ef3b94bd294ca77dc33e0812e30',1,'main.cpp']]],
+  ['plot_5fstuff_3',['plot_stuff',['../Signal_2src_2main_8cpp.html#a91f6fa48e3c0631438e9fdd56f29cd38',1,'main.cpp']]]
 ];

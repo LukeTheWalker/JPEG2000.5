@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['main_2ecpp_201',['main.cpp',['../Compression_2src_2main_8cpp.html',1,'(Global Namespace)'],['../Image_2src_2main_8cpp.html',1,'(Global Namespace)'],['../Signal_2src_2main_8cpp.html',1,'(Global Namespace)']]]
+  ['huffmantree_2ehpp_0',['HuffmanTree.hpp',['../HuffmanTree_8hpp.html',1,'']]],
+  ['hyperparameters_2ehpp_1',['hyperparameters.hpp',['../hyperparameters_8hpp.html',1,'']]]
 ];

@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['tr_5fmat_300',['tr_mat',['../namespacecompression.html#a437ac2cee5913fb8cb34502170d43f2b',1,'compression']]]
+  ['ieee_0',['ieee',['../classmux__using__with.html#a44d1d60c58066d98a072e90b31c9d908',1,'mux_using_with']]],
+  ['inverse_1',['inverse',['../structTRANSFORM__MATRICES_1_1TransformMatrix.html#a89a11d0a56512b44ea6f4752668cc8ce',1,'TRANSFORM_MATRICES::TransformMatrix']]]
 ];

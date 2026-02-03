@@ -1,9 +1,8 @@
 var searchData=
 [
-  ['decompress_224',['decompress',['../classDecompressor.html#a90a608bb68396e87c23f32303848be0a',1,'Decompressor']]],
-  ['denoise_225',['denoise',['../classSignal.html#a67c9278fe4019182616a8814ecba9cfa',1,'Signal::denoise()'],['../classtr_1_1FourierTransform_1_1OutputSpace.html#a1f504e0b4257cc0d701dfd70b16a6b0f',1,'tr::FourierTransform::OutputSpace::denoise()']]],
-  ['discretefouriertransform_226',['DiscreteFourierTransform',['../classtr_1_1DiscreteFourierTransform.html#a0016e29ee859065a5290f57b264b5472',1,'tr::DiscreteFourierTransform']]],
-  ['discretewavelettransform_227',['DiscreteWaveletTransform',['../classtr_1_1DiscreteWaveletTransform.html#a41725f533a4f57fcde4fbef86d719e7e',1,'tr::DiscreteWaveletTransform']]],
-  ['discretewavelettransform2d_228',['DiscreteWaveletTransform2D',['../classtr_1_1DiscreteWaveletTransform2D.html#a0f7c31b58f260beee25ab4c7f123f606',1,'tr::DiscreteWaveletTransform2D']]],
-  ['dwt_5ftests_229',['dwt_tests',['../test__dwt_8hpp.html#a54830af94574de63cb29d14181bf4f64',1,'test_dwt.hpp']]]
+  ['close_0',['close',['../structcmd_8h.html#ae152484c890a24e4d9b4980e7b965be0',1,'structcmd.h']]],
+  ['compress_1',['compress',['../classCompressor.html#a66f351ad3530865f069d72499c107a1b',1,'Compressor::compress()'],['../classImage.html#a274a0221dfa68efba0fb83a6c10ed58a',1,'Image::compress()'],['../classtr_1_1DiscreteWaveletTransform_1_1OutputSpace.html#a7d828bb2f81071e67c29a94dd60b8d08',1,'tr::DiscreteWaveletTransform::OutputSpace::compress()'],['../classtr_1_1DiscreteWaveletTransform2D_1_1OutputSpace.html#a05f7f262758a0d07ba138ad65d674bc0',1,'tr::DiscreteWaveletTransform2D::OutputSpace::compress()'],['../classtr_1_1FourierTransform_1_1OutputSpace.html#a75e7597462a8cfee6a7fd9997eeb7b54',1,'tr::FourierTransform::OutputSpace::compress()'],['../classtr_1_1FourierTransform2D_1_1OutputSpace.html#a7976d27ed479bfcfc934fdfce7e31141',1,'tr::FourierTransform2D::OutputSpace::compress()'],['../classtr_1_1Transform_1_1OutputSpace.html#a14812563642437d7efe222015e0c438c',1,'tr::Transform::OutputSpace::compress()']]],
+  ['compute2dfft_2',['compute2DFFT',['../classtr_1_1FourierTransform2D.html#a5fd2037b4219941c263c662059fa1dac',1,'tr::FourierTransform2D']]],
+  ['countsubdivisions_3',['countSubdivisions',['../namespacetr_1_1utils.html#ab09f64334bf742724d2291281cf78518',1,'tr::utils']]],
+  ['cstyle_4',['cstyle',['../javadoc-banner_8h.html#a6ec4bf0132201719721e103451590a9e',1,'javadoc-banner.h']]]
 ];

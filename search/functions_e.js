@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['weak_5fscaling_5fevaluation_275',['weak_scaling_evaluation',['../test__fft_8hpp.html#a7674666c092c53ed8751dee57183fe6e',1,'test_fft.hpp']]],
-  ['write_5fbits_276',['write_bits',['../Compressor_8cpp.html#ad0243cfc504103a1b11e4b26aae8cb93',1,'Compressor.cpp']]]
+  ['qtstyle_5ftest_0',['QTstyle_Test',['../classQTstyle__Test.html#a14a296ea4e2ad446712f2310bec60766',1,'QTstyle_Test']]]
 ];

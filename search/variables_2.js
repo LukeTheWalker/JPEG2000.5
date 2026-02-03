@@ -1,6 +1,13 @@
 var searchData=
 [
-  ['f_292',['f',['../namespacecompression.html#abc46d27d18eca0151b7efbf92139fa27',1,'compression']]],
-  ['forward_293',['forward',['../structTRANSFORM__MATRICES_1_1TransformMatrix.html#aa206f569b5ca528cfdb65d448cabe07b',1,'TRANSFORM_MATRICES::TransformMatrix']]],
-  ['freq_294',['freq',['../structHuffmanTree_1_1Node.html#a928570b16bfcd8245712f6493c825d00',1,'HuffmanTree::Node']]]
+  ['data_0',['data',['../classtr_1_1DiscreteWaveletTransform_1_1OutputSpace.html#ab1a5cf03ec9c73a6e72ce3db2d04f8d6',1,'tr::DiscreteWaveletTransform::OutputSpace::data()'],['../classtr_1_1DiscreteWaveletTransform2D_1_1InputSpace.html#ab4c7e2b39affdfb29d0d446d9a7b64cb',1,'tr::DiscreteWaveletTransform2D::InputSpace::data()'],['../classtr_1_1DiscreteWaveletTransform2D_1_1OutputSpace.html#a9646360bc639075a67048f68b246e91d',1,'tr::DiscreteWaveletTransform2D::OutputSpace::data()'],['../classtr_1_1FourierTransform_1_1InputSpace.html#a39da1d7f62d716a33997f3aefd64ab07',1,'tr::FourierTransform::InputSpace::data()'],['../classtr_1_1FourierTransform_1_1OutputSpace.html#a9cd29d6a396c6ba8d97a2838a175e30b',1,'tr::FourierTransform::OutputSpace::data()'],['../classtr_1_1FourierTransform2D_1_1InputSpace.html#ab2c69d3b0a54c7678e3820f3201bcc13',1,'tr::FourierTransform2D::InputSpace::data()'],['../classtr_1_1FourierTransform2D_1_1OutputSpace.html#a02254daad76be7f9d52254c823e24b4d',1,'tr::FourierTransform2D::OutputSpace::data()'],['../classtr_1_1DiscreteWaveletTransform_1_1InputSpace.html#a5ee0e3bb3226ccac32d7fd7fd423e731',1,'tr::DiscreteWaveletTransform::InputSpace::data()']]],
+  ['daubechies_5fd10_1',['DAUBECHIES_D10',['../namespaceTRANSFORM__MATRICES.html#a62905427bb01e49856a5b06ce3403516',1,'TRANSFORM_MATRICES']]],
+  ['daubechies_5fd16_2',['DAUBECHIES_D16',['../namespaceTRANSFORM__MATRICES.html#a9a5d7ef13edc171dc0adc4308a9cc4c0',1,'TRANSFORM_MATRICES']]],
+  ['daubechies_5fd20_3',['DAUBECHIES_D20',['../namespaceTRANSFORM__MATRICES.html#a5cff27d99f3f0d75fb44f7fa96f0ae58',1,'TRANSFORM_MATRICES']]],
+  ['daubechies_5fd4_4',['DAUBECHIES_D4',['../namespaceTRANSFORM__MATRICES.html#a80f0863d1b0645ae58071ca6d94bb310',1,'TRANSFORM_MATRICES']]],
+  ['daubechies_5fd40_5',['DAUBECHIES_D40',['../namespaceTRANSFORM__MATRICES.html#aa1ce213aa9bd53b17e3db3d4076c049f',1,'TRANSFORM_MATRICES']]],
+  ['daubechies_5fd6_6',['DAUBECHIES_D6',['../namespaceTRANSFORM__MATRICES.html#a17ffcb88c3d97ed7c844270b4ecde5e7',1,'TRANSFORM_MATRICES']]],
+  ['daubechies_5fd8_7',['DAUBECHIES_D8',['../namespaceTRANSFORM__MATRICES.html#aa1ed5562eaf0aec716961cb2cc2c618d',1,'TRANSFORM_MATRICES']]],
+  ['din_5f0_8',['din_0',['../classmux__using__with.html#a9fc14b65611c7124d4cab27b963f3011',1,'mux_using_with']]],
+  ['din_5f1_9',['din_1',['../classmux__using__with.html#aaedccad88ca9b207c86a561342fcbaa1',1,'mux_using_with']]]
 ];

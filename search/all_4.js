@@ -1,17 +1,17 @@
 var searchData=
 [
-  ['generate_5fforward_56',['generate_forward',['../namespaceTRANSFORM__MATRICES_1_1TRANSFORM.html#a3569fa0b21a9787d92310f0d9337e93f',1,'TRANSFORM_MATRICES::TRANSFORM']]],
-  ['generate_5finverse_57',['generate_inverse',['../namespaceTRANSFORM__MATRICES_1_1TRANSFORM.html#a1de05a6ab59644a8d5150b67bf6a69b2',1,'TRANSFORM_MATRICES::TRANSFORM']]],
-  ['generate_5fsignal_2ehpp_58',['generate_signal.hpp',['../generate__signal_8hpp.html',1,'']]],
-  ['generate_5fsignal_5fto_5ffile_59',['generate_signal_to_file',['../generate__signal_8hpp.html#a9b6329efdce09ebad5b4db292063564c',1,'generate_signal.hpp']]],
-  ['get_5fcode_5ftable_60',['get_code_table',['../classHuffmanTree.html#ad29dce3c90461fdd464197dcabd87394',1,'HuffmanTree']]],
-  ['get_5fdata_61',['get_data',['../classtr_1_1Transform_1_1InputSpace.html#ae3f08cd1d2a715105756c498afa8e9bd',1,'tr::Transform::InputSpace::get_data()'],['../classtr_1_1DiscreteWaveletTransform_1_1InputSpace.html#a1b7b6fa0e04367e4c02971dd88231cd1',1,'tr::DiscreteWaveletTransform::InputSpace::get_data()'],['../classtr_1_1DiscreteWaveletTransform2D_1_1InputSpace.html#a231bb9c1d2c497f6ca801c0ff88a72e1',1,'tr::DiscreteWaveletTransform2D::InputSpace::get_data()'],['../classtr_1_1FourierTransform_1_1InputSpace.html#adb0a0e81c19d4b29fe850179a969cf95',1,'tr::FourierTransform::InputSpace::get_data()'],['../classtr_1_1FourierTransform2D_1_1InputSpace.html#a2e85c668c1644d88811fdf1c0c985dec',1,'tr::FourierTransform2D::InputSpace::get_data()']]],
-  ['get_5ffreqs_62',['get_freqs',['../classSignal.html#a15039e47f6d7358683b7a97e788fac10',1,'Signal']]],
-  ['get_5fimage_63',['get_image',['../classImage.html#abcd2804876e1d30482871445b03ca728',1,'Image']]],
-  ['get_5finput_5fspace_64',['get_input_space',['../classtr_1_1DiscreteWaveletTransform2D.html#aca8aa066f5397f6eb8017de4968b40ac',1,'tr::DiscreteWaveletTransform2D::get_input_space()'],['../classtr_1_1Transform.html#a0d523852c91bb654a937c9463d3643ab',1,'tr::Transform::get_input_space()'],['../classtr_1_1DiscreteWaveletTransform.html#aa897d918e5c73abf7199012879f0573a',1,'tr::DiscreteWaveletTransform::get_input_space()'],['../classtr_1_1FourierTransform.html#a5d56fc61fe4f5016e0abcd4788c15b5c',1,'tr::FourierTransform::get_input_space()'],['../classtr_1_1FourierTransform2D.html#a4386c736e562e5ed5f9d64f59f5801bb',1,'tr::FourierTransform2D::get_input_space()']]],
-  ['get_5foutput_5fspace_65',['get_output_space',['../classtr_1_1DiscreteWaveletTransform.html#a0210a9460bf9dece098fce6c8b8305e5',1,'tr::DiscreteWaveletTransform::get_output_space()'],['../classtr_1_1Transform.html#af478994575794615e555180d74214494',1,'tr::Transform::get_output_space()'],['../classtr_1_1FourierTransform2D.html#aec6130bee08454afa68b83499184a4aa',1,'tr::FourierTransform2D::get_output_space()'],['../classtr_1_1FourierTransform.html#ad51dd9da9f2259791e01fcd2e4938dd1',1,'tr::FourierTransform::get_output_space()'],['../classtr_1_1DiscreteWaveletTransform2D.html#a3b198408efdb87047408062fcb69729f',1,'tr::DiscreteWaveletTransform2D::get_output_space()']]],
-  ['get_5fplottable_5frepresentation_66',['get_plottable_representation',['../classtr_1_1DiscreteWaveletTransform_1_1OutputSpace.html#ac661255e99977463bc7ff30e8c9e4bd6',1,'tr::DiscreteWaveletTransform::OutputSpace::get_plottable_representation()'],['../classtr_1_1DiscreteWaveletTransform2D_1_1OutputSpace.html#a9a24d63b357185642aae3d069c8e4e65',1,'tr::DiscreteWaveletTransform2D::OutputSpace::get_plottable_representation()'],['../classtr_1_1FourierTransform_1_1OutputSpace.html#a60edc0fc798411251cc8c132f83c5ef1',1,'tr::FourierTransform::OutputSpace::get_plottable_representation()'],['../classtr_1_1FourierTransform2D_1_1OutputSpace.html#afaae3c0cce18ec70a1f28367e2da79cb',1,'tr::FourierTransform2D::OutputSpace::get_plottable_representation()'],['../classtr_1_1Transform_1_1OutputSpace.html#a8958f2dfbcb5926efdb09d86bdc0d898',1,'tr::Transform::OutputSpace::get_plottable_representation()']]],
-  ['get_5fsignal_67',['get_signal',['../classSignal.html#a784b9cab824a9d62b938e071999e43ba',1,'Signal']]],
-  ['get_5ftr_5fcoeff_68',['get_tr_coeff',['../classImage.html#a0264cad9cbab5325aad0a32843d01ae0',1,'Image']]],
-  ['get_5fx_69',['get_x',['../classSignal.html#a4617420d88a08f6ca205b28713c1ace7',1,'Signal']]]
+  ['e_0',['E',['../classE.html',1,'']]],
+  ['enum_2eh_1',['enum.h',['../enum_8h.html',1,'']]],
+  ['enum_5ftest_2',['Enum_Test',['../classEnum__Test.html',1,'']]],
+  ['enumptr_3',['enumPtr',['../classJavadoc__Test.html#abcb36df9d8af3e69290c239ba483d6df',1,'Javadoc_Test::enumPtr()'],['../classQTstyle__Test.html#a973a4566c9a036f4eca508ba5fe80dcb',1,'QTstyle_Test::enumPtr()']]],
+  ['enumtype_4',['EnumType',['../classAfterdoc__Test.html#adab0cd7ad3b4875e245ca8f6238a388a',1,'Afterdoc_Test']]],
+  ['enumvar_5',['enumVar',['../classJavadoc__Test.html#afcc11e097968fb44080b82b75032e40b',1,'Javadoc_Test::enumVar()'],['../classQTstyle__Test.html#a241fb54f66dc0b3b03eece3a1a1bf18b',1,'QTstyle_Test::enumVar()']]],
+  ['errno_6',['errno',['../structcmd_8h.html#ad65a8842cc674e3ddf69355898c0ecbf',1,'structcmd.h']]],
+  ['etype_7',['EType',['../classAutolink__Test.html#aeb611627c332d067bded1806b1bb45c2',1,'Autolink_Test']]],
+  ['eval1_8',['EVal1',['../classAfterdoc__Test.html#adab0cd7ad3b4875e245ca8f6238a388aae054276790e35692ad0abe10c5b75da4',1,'Afterdoc_Test']]],
+  ['eval2_9',['EVal2',['../classAfterdoc__Test.html#adab0cd7ad3b4875e245ca8f6238a388aac849f37624d8d2d68ca72c4a8df9cf99',1,'Afterdoc_Test']]],
+  ['example_10',['example',['../classExample__Test.html#a22a62b12c65fd5e43b6eadaabb21ebb0',1,'Example_Test::example()'],['../classInclude__Test.html#aa286655e8f7f6a8ad203ef5fd8548b81',1,'Include_Test::example()'],['../classTag.html#acc641ffae34e2c4c03a6edf0a513be28',1,'Tag::example()']]],
+  ['example_2ecpp_11',['example.cpp',['../example_8cpp.html',1,'']]],
+  ['example_5ftest_12',['Example_Test',['../classExample__Test.html',1,'']]],
+  ['example_5ftest_2ecpp_13',['example_test.cpp',['../example__test_8cpp.html',1,'']]]
 ];

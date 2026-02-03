@@ -1,7 +1,6 @@
 var searchData=
 [
-  ['partial_5fbit_5freverse_258',['partial_bit_reverse',['../namespacetr_1_1bitreverse.html#af561a30ebf3d841ec06327d19df44a70',1,'tr::bitreverse']]],
-  ['pass_5ffilter_259',['pass_filter',['../classtr_1_1FourierTransform2D_1_1OutputSpace.html#a3c15337e935022879ad255d1bcb563fc',1,'tr::FourierTransform2D::OutputSpace']]],
-  ['plot_5fimage_260',['plot_image',['../Compression_2src_2main_8cpp.html#ae8d78ef3b94bd294ca77dc33e0812e30',1,'main.cpp']]],
-  ['plot_5fstuff_261',['plot_stuff',['../Signal_2src_2main_8cpp.html#a91f6fa48e3c0631438e9fdd56f29cd38',1,'main.cpp']]]
+  ['magnitude_5ffilter_0',['magnitude_filter',['../classtr_1_1FourierTransform2D_1_1OutputSpace.html#a26ce81df8536cd985f6c10749fb73c46',1,'tr::FourierTransform2D::OutputSpace']]],
+  ['main_1',['main',['../Compression_2src_2main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4',1,'main():&#160;main.cpp'],['../Image_2src_2main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4',1,'main():&#160;main.cpp'],['../Signal_2src_2main_8cpp.html#a8216c1645620cdb2f629cde3ac02ffef',1,'main() -&gt; int:&#160;main.cpp'],['../example__test_8cpp.html#acdef7a1fd863a6d3770c1268cb06add3',1,'main():&#160;example_test.cpp'],['../include__test_8cpp.html#acdef7a1fd863a6d3770c1268cb06add3',1,'main():&#160;include_test.cpp'],['../manual_8c.html#a840291bc02cba5474a4cb46a9b9566fe',1,'main(void):&#160;manual.c'],['../pipeline_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97',1,'main(int argc, char *argv[]):&#160;pipeline.cpp']]],
+  ['member_2',['member',['../classAfterdoc__Test.html#a57ba94e9039ee90a1b191ae0009a05dd',1,'Afterdoc_Test::member()'],['../classAutolink__Test.html#a393ea281f235a2f603d98daf72b0d411',1,'Autolink_Test::member(int)'],['../classAutolink__Test.html#acf783a43c2b4b6cc9dd2361784eca2e1',1,'Autolink_Test::member(int, int)'],['../classFn__Test.html#a823b5c9726bb8f6ece50e57ac8e3092c',1,'Fn_Test::member()']]]
 ];

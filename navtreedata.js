@@ -25,17 +25,10 @@
 var NAVTREE =
 [
   [ "Transform Library", "index.html", [
-    [ "DWT&FFT by Bertasini&Greco", "index.html", [
-      [ "Prerequisites", "index.html#autotoc_md1", null ],
-      [ "Usage", "index.html#autotoc_md2", null ],
-      [ "Applications", "index.html#autotoc_md3", [
-        [ "Overview", "index.html#autotoc_md4", null ],
-        [ "Signal", "index.html#autotoc_md5", null ],
-        [ "Image", "index.html#autotoc_md6", null ],
-        [ "Compression", "index.html#autotoc_md7", null ]
-      ] ],
-      [ "Authors", "index.html#autotoc_md8", null ]
-    ] ],
+    [ "DWT&FFT by Bertasini&Greco", "index.html", "index" ],
+    [ "pag_example", "pag_example.html", null ],
+    [ "Bug List", "bug.html", null ],
+    [ "Modules", "modules.html", "modules" ],
     [ "Namespaces", "namespaces.html", [
       [ "Namespace List", "namespaces.html", "namespaces_dup" ],
       [ "Namespace Members", "namespacemembers.html", [
@@ -52,23 +45,33 @@ var NAVTREE =
       [ "Class Members", "functions.html", [
         [ "All", "functions.html", null ],
         [ "Functions", "functions_func.html", null ],
-        [ "Variables", "functions_vars.html", null ]
+        [ "Variables", "functions_vars.html", null ],
+        [ "Enumerations", "functions_enum.html", null ],
+        [ "Enumerator", "functions_eval.html", null ],
+        [ "Related Functions", "functions_rela.html", null ]
       ] ]
     ] ],
     [ "Files", "files.html", [
       [ "File List", "files.html", "files_dup" ],
       [ "File Members", "globals.html", [
         [ "All", "globals.html", null ],
-        [ "Functions", "globals_func.html", null ]
+        [ "Functions", "globals_func.html", null ],
+        [ "Variables", "globals_vars.html", null ],
+        [ "Typedefs", "globals_type.html", null ],
+        [ "Enumerations", "globals_enum.html", null ],
+        [ "Enumerator", "globals_eval.html", null ],
+        [ "Macros", "globals_defs.html", null ]
       ] ]
-    ] ]
+    ] ],
+    [ "Examples", "examples.html", "examples" ]
   ] ]
 ];
 
 var NAVTREEINDEX =
 [
 "Compression_2src_2main_8cpp.html",
-"namespaceTypedefs.html#a5da46746f89e1b3403e76f013c6d1527"
+"classtr_1_1DiscreteWaveletTransform2D.html#aca8aa066f5397f6eb8017de4968b40ac",
+"manual_8c_source.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

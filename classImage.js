@@ -1,6 +1,6 @@
 var classImage =
 [
-    [ "Image", "classImage.html#abe724deecc3ee02c3625614029e814d2", null ],
+    [ "Image", "classImage.html#afcbab04f396ca34ad7379b77a9322b5f", null ],
     [ "compress", "classImage.html#a274a0221dfa68efba0fb83a6c10ed58a", null ],
     [ "get_image", "classImage.html#abcd2804876e1d30482871445b03ca728", null ],
     [ "get_tr_coeff", "classImage.html#a0264cad9cbab5325aad0a32843d01ae0", null ],

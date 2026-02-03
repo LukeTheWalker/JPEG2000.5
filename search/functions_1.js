@@ -1,6 +1,7 @@
 var searchData=
 [
-  ['compress_221',['compress',['../classCompressor.html#a66f351ad3530865f069d72499c107a1b',1,'Compressor::compress()'],['../classImage.html#a274a0221dfa68efba0fb83a6c10ed58a',1,'Image::compress()'],['../classtr_1_1DiscreteWaveletTransform_1_1OutputSpace.html#a7d828bb2f81071e67c29a94dd60b8d08',1,'tr::DiscreteWaveletTransform::OutputSpace::compress()'],['../classtr_1_1DiscreteWaveletTransform2D_1_1OutputSpace.html#a05f7f262758a0d07ba138ad65d674bc0',1,'tr::DiscreteWaveletTransform2D::OutputSpace::compress()'],['../classtr_1_1FourierTransform_1_1OutputSpace.html#a75e7597462a8cfee6a7fd9997eeb7b54',1,'tr::FourierTransform::OutputSpace::compress()'],['../classtr_1_1FourierTransform2D_1_1OutputSpace.html#aea7bff35f85efebb4842d63d645c5fc4',1,'tr::FourierTransform2D::OutputSpace::compress()'],['../classtr_1_1Transform_1_1OutputSpace.html#a14812563642437d7efe222015e0c438c',1,'tr::Transform::OutputSpace::compress()']]],
-  ['compute2dfft_222',['compute2DFFT',['../classtr_1_1FourierTransform2D.html#ae7b1a2b07f6167b09f22a6ea052ccd41',1,'tr::FourierTransform2D']]],
-  ['countsubdivisions_223',['countSubdivisions',['../namespacetr_1_1utils.html#ab09f64334bf742724d2291281cf78518',1,'tr::utils']]]
+  ['bit_5freverse_0',['bit_reverse',['../bitreverse_8cpp.html#a85f2375b431811a1164fe6f9b4ebc0f9',1,'bitreverse.cpp']]],
+  ['bit_5freverse_5fcopy_1',['bit_reverse_copy',['../namespacetr_1_1bitreverse.html#a91c2d7d6487a944b118ad6780a2e2cb3',1,'tr::bitreverse']]],
+  ['bit_5freverse_5fimage_2',['bit_reverse_image',['../namespacetr_1_1bitreverse.html#a290f09a7c25fd9fbc1b0d00cdc4e0655',1,'tr::bitreverse']]],
+  ['bit_5freversed_5findex_3',['bit_reversed_index',['../bitreverse_8cpp.html#a2b64bcd8077ed2a528d4f1a218ace414',1,'bitreverse.cpp']]]
 ];

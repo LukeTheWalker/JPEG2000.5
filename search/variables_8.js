@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['user_5flevels_301',['user_levels',['../classtr_1_1DiscreteWaveletTransform2D_1_1OutputSpace.html#add2edaeda052a2b2c9722c923db26b3a',1,'tr::DiscreteWaveletTransform2D::OutputSpace']]]
+  ['left_0',['left',['../structHuffmanTree_1_1Node.html#a6f6042c0d220eb418c97fc2d103db5b1',1,'HuffmanTree::Node']]]
 ];
