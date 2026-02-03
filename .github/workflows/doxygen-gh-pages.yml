@@ -13,8 +13,8 @@ jobs:
         contents: write
     steps:
       - name: Generate Doxygen documentation
-        uses: DenverCoder1/doxygen-github-pages-action@v1.3.0
+        uses: DenverCoder1/doxygen-github-pages-action@v2.0.0
         with:
-          github_token: ${{ secrets.DOX_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           config_file: docs/Doxyfile
           folder: html
